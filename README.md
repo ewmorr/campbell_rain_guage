@@ -1,4 +1,4 @@
-# Rain guage sequences
+# Rain gauge sequences
 
 Amplicons produced using the earth microbiome project general eukaryote 18S V9 primers. Taxonomic assignment of amplicon sequences was performed against both the PR2 database and the eukaryome 18S database. The eukaryome taxonomic IDs are preferred (see eukaryome paper) but comparison to PR2 may be useful.
 
